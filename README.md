@@ -1,3 +1,3 @@
 # hell git
 
-# githum study
+# github study
